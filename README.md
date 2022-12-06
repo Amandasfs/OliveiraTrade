@@ -10,3 +10,29 @@ Projeto Avaliativo (Login e Cadastro)
 
 
 ![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/HOME.png)
+
+
+
+2. Para Criar Uma nova conta, clique em Cadastrar, após isso abrirá a aba de de cadastro.
+
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Cadastro.png)
+
+
+3. Preencha o formulário de Cadastro e Clique em 'Salvar', Após isso uma mensagem Aparecerá.
+
+
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Dados%20Cadastro.png)
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Mensagem%20Sucesso.png)
+
+
+4. Clique no botão Login, para ser redirecionado a tela de Login.
+
+
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Login.png)
+
+5. Preencha Os dados do seu Login e clique em 'Entrar'
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Logindados.png)
+
+6. Após efetuar o acesso, uma mensagem aparecerá na tela
+![Imagem1](https://github.com/Amandasfs/OliveiraTrade/blob/main/ImagensProjetoTelas/Acesso%20permetido.png)
+
